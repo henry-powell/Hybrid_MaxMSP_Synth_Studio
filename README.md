@@ -1,4 +1,10 @@
 # Hybrid_MaxMSP_Synth_Studio — Hybrid Sample & Synthesis Workstation
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+![Max/MSP](https://img.shields.io/badge/Max%2FMSP-Visual%20DSP%20Environment-blue.svg)
+![Hybrid Synthesis](https://img.shields.io/badge/Synthesis-Hybrid%20(Additive%20%2B%20Subtractive%20%2B%20FM)-purple.svg)
+![Built-in FX](https://img.shields.io/badge/FX-Reverb%20%7C%20Compression%20%7C%20Distortion-orange.svg)
+![Sampler Engine](https://img.shields.io/badge/Sampler-Pitch%20Shift%20%2F%20Speed%20Control-teal.svg)
+![UI](https://img.shields.io/badge/UI-Custom%20Synth%20Interface-grey.svg)
 
 Hybrid_MaxMSP_Synth_Studio is a Max/MSP patch that blends subtractive synthesis, modulation synthesis, canonical waveforms, and sample-based sound manipulation into a single unified workstation.
 The design focuses on musical flexibility, intuitive UI control, smooth transitions between notes, and real-time sound-design capabilities.
