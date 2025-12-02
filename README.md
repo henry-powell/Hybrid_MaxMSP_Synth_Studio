@@ -86,6 +86,23 @@ Hybrid_MaxMSP_Synth_Studio demonstrates applied DSP and music-technology design 
 - Effects processing chain similar to commercial audio workstations
 - MIDI input parsing, velocity mapping, and modulation wheel integration
 
+---
+
+## Requirements
+
+- Max 8 or later (Cycling '74)
+- Audio interface or built-in system audio
+- Recommended test settings:
+  - DSP on (I/O Vector = 64, Signal Vector = 64)
+  - Sample rate: 44.1 kHz
+  - Buffer size ≤ 128 samples for smooth parameter modulation
+- Works with:
+  - MIDI keyboard (optional) for pitch and mod-wheel control
+  - Mouse/trackpad input for UI sliders, knobs, and engine selectors
+### Optional Enhancements
+- Full-range studio monitors or headphones for accurate bass and FX response
+- Sustain pedal for expressive sampler playback
+
 This project highlights core competencies used in professional audio plug-in development, game audio systems, adaptive music engines, and digital instrument design.
 
 ---
